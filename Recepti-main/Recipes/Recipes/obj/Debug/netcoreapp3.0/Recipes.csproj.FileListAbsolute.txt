@@ -1,0 +1,476 @@
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.exe
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.deps.json
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.runtimeconfig.json
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.runtimeconfig.dev.json
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.pdb
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.Views.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Humanizer.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\staticwebassets\Recipes.StaticWebAssets.Manifest.cache
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\staticwebassets\Recipes.StaticWebAssets.xml
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.AssemblyInfoInputs.cache
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.AssemblyInfo.cs
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.RazorTargetAssemblyInfo.cache
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.csproj.CopyComplete
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.pdb
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.csprojAssemblyReference.cache
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gost\source\repos\Recipes\Recipes\bin\Debug\netcoreapp3.0\Views\dist\js\.eslintrc.json
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gost\source\repos\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.MvcApplicationPartsAssemblyInfo.cache
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\appsettings.Development.json
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\appsettings.json
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Views\dist\js\.eslintrc.json
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.exe
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.deps.json
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.runtimeconfig.json
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.runtimeconfig.dev.json
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.pdb
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.Views.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Humanizer.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\staticwebassets\Recipes.StaticWebAssets.Manifest.cache
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\staticwebassets\Recipes.StaticWebAssets.xml
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.MvcApplicationPartsAssemblyInfo.cs
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.MvcApplicationPartsAssemblyInfo.cache
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.AssemblyInfoInputs.cache
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.AssemblyInfo.cs
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.RazorTargetAssemblyInfo.cache
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.csproj.CopyComplete
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.dll
+G:\_Nikola\Maturski Ispit\Recipes\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.pdb
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\appsettings.Development.json
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\appsettings.json
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Views\dist\js\.eslintrc.json
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.StaticWebAssets.xml
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.exe
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.deps.json
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.runtimeconfig.json
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.runtimeconfig.dev.json
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.pdb
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Recipes.Views.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Humanizer.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.csproj.AssemblyReference.cache
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.GeneratedMSBuildEditorConfig.editorconfig
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.AssemblyInfoInputs.cache
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.AssemblyInfo.cs
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.csproj.CoreCompileInputs.cache
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.MvcApplicationPartsAssemblyInfo.cs
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.MvcApplicationPartsAssemblyInfo.cache
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\staticwebassets\Recipes.StaticWebAssets.Manifest.cache
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.RazorTargetAssemblyInfo.cache
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.csproj.CopyComplete
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.dll
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.pdb
+H:\NIKOLA\Maturski rad\Recepti-main\Recipes\Recipes\obj\Debug\netcoreapp3.0\Recipes.genruntimeconfig.cache

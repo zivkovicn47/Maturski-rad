@@ -1,0 +1,23 @@
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">FoodType</th>
+      <th scope="col"><button (click)='showAdd()'><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let el of dataSource">
+      <td scope="row">{{el.id}}</td>
+      <td>{{el.name}}</td>
+      <td>{{el.foodType}}</td>
+    </tr>
+    <tr *ngIf="showAddFood">
+      <th scope="row"></th>
+      <td><input type="text" class="form-control" aria-label="Name"></td>
+      <td><input type="number" class="form-control" aria-label="FoodType"></td>
+    </tr>
+  </tbody>
+</table>

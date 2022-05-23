@@ -1,0 +1,15 @@
+
+INSERT INTO Recipes (Name, Difficulty,NumberServes,MinuteForPrepere,Text,CreateAt) VALUES ('Pica',3,'4','30','1. U toploj vodi vodi staviti kasicicu secera i izdrobiti kvasac. Sacekati da naraste. U brasno staviti so, ostatak secera, ulje, i vodu sa kvascem. Umesiti testo (ako je potrebno dodati jos brasna). Podeliti testo na 2 dela i ostaviti da naraste (odprilike 15-ak minuta).
+2. Oba pleha dobro premazati uljem (da se ne bi testo zalepilo) i razvuci testo rukama. Po testu sipatu kecap i ravnomerno razmazati.
+3. Zatim staviti: sunku (na polukrugove), cajnu kobasicu, slaninicu, pecurke (na listice), masline (kolicina po zelji). Na svaku 1/8 testa rabiti jaje (po zelji). Posuti sa origanom i obilno nastrugati kackavalj.
+4. Staviti da se pece u prethodno zagrejanu rernu na 190 stepeni.','2022-11-5'),
+('Lagana vocna torta',2,'12','30','Izmesati pavlaku i secer u prahu i dodati umucenoj kremi za slag i izmesati. Smesu podeliti na 2 dela. U jedan do staviti voce, a u drugi deo izdrobljeni keks koji je ostao od poredjanog na dno kalupa umocen u mleko. U kalup poredjati potopljen keks, fil sa keksom pa fil sa vocem i umucen slag sa mlekom. Lagana torta osvezava i brzo se pojede.','2022-10-5');
+INSERT INTO Ingredients(FoodID, RecipeID, Quantity) VALUES ('2','3','500'),('1','4','1000')
+INSERT INTO FoodTypes (Name, Unit,DefaultQuantity) VALUES ('voce','g','1000'),('povrce','g','1000'),('zitarice','g','1000'),('meso','g','1000'),('voda','l','1000')
+INSERT INTO Foods(Name, FoodTypeID) VALUES ('Jabuka',1),('Sunka',4),('Voda',5),('Krastavac',2)
+INSERT INTO ShoppingLists(Name, CreatedAt) VALUES ('Kupovina za picu','2022-10-15'),('Kupovina za vocnu tortu','2022-10-15')
+INSERT INTO ShoppingListItems(FoodID, ShoppingListID, IsPurchased, Quantity) VALUES ('2','2','1','1000'),('1','3','1','1000')
+INSERT INTO StorageSpaces(Name, StorageSpaceType, Location) VALUES ('Frizider','1','Kuhinja'),('Zamrzivac','1','Spajz')
+INSERT INTO StoredMaterials(StoredAt, StoredSpaceID, FoodID, StorageSpaceID) VALUES ('2022-1-1','1','1','1'),('2022-2-2','2','2','2')
+INSERT INTO Users(Name, LastName, Password, Email, UserName) VALUES ('Marko','Markovic','123','marko.markovic@email','marko123'), ('Janko','Jankovic','123','janko.jankovic@email','janko123')
+INSERT INTO UsedRecipes(UserID,RecipeID,UsedTime,Quantity) VALUES (1,3,'2021-12-12',1000),(2,4,'2020-12-12',500)

@@ -1,0 +1,34 @@
+<div class="login-backgraund">
+
+  <mat-card>
+    <mat-tab-group mat-align-tabs="center">
+      <mat-tab label="Login">
+        <div class="tab-content">
+          <form class="login-form">
+            <mat-form-field class="example-full-width" appearance="fill">
+              <mat-label>Email</mat-label>
+              <input type="email" matInput placeholder="Ex. pat@example.com">
+              <mat-error *ngIf="emailFormControl.hasError('email') && !emailFormControl.hasError('required')">
+                Please enter a valid email address
+              </mat-error>
+              <mat-error *ngIf="emailFormControl.hasError('required')">
+                Email is <strong>required</strong>
+              </mat-error>
+            </mat-form-field>
+            <mat-form-field class="example-full-width" appearance="fill">
+              <mat-label>Password</mat-label>
+              <input type="password" matInput placeholder="Ex. *****">
+            </mat-form-field>
+          </form>
+          <mat-card-actions >
+            <button mat-button>Login</button>
+          </mat-card-actions>
+        </div>
+      </mat-tab>
+
+      <mat-tab label="Register"> Content 2 </mat-tab>
+    </mat-tab-group>
+    <!--<mat-card-subtitle>End</mat-card-subtitle>-->
+
+  </mat-card>
+  </div>

@@ -1,0 +1,37 @@
+<div class="container">
+  <div class="row">
+    <div class="col-2"></div>
+    <div class="container-table">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">StoredAt</th>
+            <th scope="col">StoredSpace</th>
+            <th scope="col">Food</th>
+            <th scope="col"><button  class="btn btn-primary" (click)='showAdd()'><i class="fa-solid fa-plus"></i></button></th>
+          </tr>
+        </thead>
+        <tbody><!-- -->
+          <tr *ngFor="let el of dataSource">
+            <td scope="row">{{el.id}}</td>
+            <td>{{el.storedAt}}</td>
+            <td>{{el.storedSpaceID}}</td>
+            <td>{{el.foodID}}</td>
+          </tr>
+          <tr *ngIf="showAddStoredMaterials">
+            <th scope="row"><input *ngIf="showEditStoredMaterials" type="text" class="form-control" [formControl]="iD" aria-label="Name"></th>
+            <td><input type="text" class="form-control" [formControl]="storedAt" aria-label="StoredAt"></td>
+            <td><input type="number" class="form-control" [formControl]="storedSpaceID" aria-label="StoredSpaceID"></td>
+            <td><input type="text" class="form-control" [formControl]="foodID" aria-label="FoodID"></td>
+            <th scope="col">
+              <button class="btn btn-primary" *ngIf="showAddStoredMaterials" (click)='addStoredMaterials()'><i class="fa fa-plus"></i></button>
+              <button class="btn btn-primary" *ngIf="showEditStoredMaterials" (click)='editStoredMaterials()'><i class="fa fa-edit"></i></button>
+            </th>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-2"></div>
+  </div>
+</div>

@@ -1,0 +1,30 @@
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">UserID</th>
+      <th scope="col">RecipeID</th>
+      <th scope="col">UsedTime</th>
+      <th scope="col">Quantity</th>
+      <th scope="col"><button (click)='showAdd()'><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let el of dataSource">
+      <td scope="row">{{el.id}}</td>
+      <td>{{el.userID}}</td>
+      <td>{{el.recipeID}}</td>
+      <td>{{el.usedTime}}</td>
+      <td>{{el.Quantity}}</td>
+    </tr>
+    <tr *ngIf="showAddUsedRecipes">
+      <th scope="row"></th>
+      <td><input type="number" class="form-control" aria-label="UserID"></td>
+      <td><input type="number" class="form-control" aria-label="RecipeID"></td>
+      <td><input type="datetime-local" class="form-control" aria-label="UsedTime"></td>
+      <td><input type="number" class="form-control" aria-label="Quantity"></td>
+      <th scope="col"><button click=''><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </tbody>
+</table>

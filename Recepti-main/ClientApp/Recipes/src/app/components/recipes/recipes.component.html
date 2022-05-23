@@ -1,0 +1,33 @@
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Difficulty</th>
+      <th scope="col">NumberServes</th>
+      <th scope="col">MinuteForPrepere</th>
+      <th scope="col">Text</th>
+      <th scope="col"><button (click)='showAdd()'><i class="fa fa-plus"></i></button></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let el of dataSource">
+      <td scope="row">{{el.id}}</td>
+      <td>{{el.name}}</td>
+      <td>{{el.difficulty}}</td>
+      <td>{{el.numberServes}}</td>
+      <td>{{el.minuteForPrepere}}</td>
+      <td>{{el.text}}</td>
+    </tr>
+    <tr *ngIf="showAddRecipes">
+      <th scope="row"></th>
+      <td><input type="text" class="form-control" aria-label="Name"></td>
+      <td><input type="number" class="form-control" aria-label="Difficulty"></td>
+      <td><input type="number" class="form-control" aria-label="NumberServes"></td>
+      <td><input type="number" class="form-control" aria-label="MinutesForPrepere"></td>
+      <td><input type="text" class="form-control" aria-label="Text"></td>
+      <th scope="col"><button click=''><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </tbody>
+</table>

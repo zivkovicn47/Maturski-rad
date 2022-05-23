@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\views",
+    "\\src\\app\\views\\pages",
+    "\\src\\app\\views\\pages\\login",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\components\\docs-callout",
+    "\\src\\components\\docs-example"
+  ],
+  "SelectedNode": "\\src\\app\\app-routing.module.ts",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,43 @@
+<div class="container">
+  <div class="row">
+    <div class="col-2"></div>
+    <div class="container-table">
+      <table class="table table-striped">
+        <thead>
+          <tr >
+            <th scope="col-2">#</th>
+            <th scope="col-2">Name</th>
+            <th scope="col-1">StorigeSpaceType</th>
+            <th scope="col-3">Location</th>
+            <th scope="col-2"><button *ngIf="!showAddStorigeSpace" class="btn btn-primary" (click)='showAdd()'><i class="fa fa-plus"></i></button></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let el of dataSource">
+            <td scope="row">{{el.id}}</td>
+            <td>{{el.name}}</td>
+            <td>{{el.storageSpaceType}}</td>
+            <td>{{el.location}}</td>
+            <td>
+              <button class="btn btn-primary" (click)='showEdit(el)' style="margin-right: 10px;"><i class="fa fa-edit"></i></button>
+              <button class="btn btn-primary" (click)='deleteStorigeSpace()'><i class="fa fa-trash"></i></button>
+            </td>
+        </tr>
+          <tr *ngIf="showAddStorigeSpace || showEditStorigeSpace">
+            <th scope="row"><input *ngIf="showEditStorigeSpace" type="text" class="form-control" [formControl]="id" aria-label="Name"></th>
+            <td><input type="text" class="form-control" [formControl]="name" aria-label="Name"></td>
+            <td><input type="number" class="form-control" [formControl]="storigeSpaceType" aria-label="StorigeSpaceType"></td>
+            <td><input type="text" class="form-control" [formControl]="location" aria-label="Location"></td>
+            <th scope="col">
+              <button class="btn btn-primary" *ngIf="showAddStorigeSpace" (click)='addStorigeSpace()'><i class="fa fa-plus"></i></button>
+              <button class="btn btn-primary" *ngIf="showEditStorigeSpace" (click)='editStorigeSpace()'><i class="fa fa-edit"></i></button>
+            </th>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-2"></div>
+  </div>
+</div>
+
+

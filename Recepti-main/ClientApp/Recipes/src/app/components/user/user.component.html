@@ -1,0 +1,32 @@
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">LastName</th>
+      <th scope="col">Password</th>
+      <th scope="col">Email</th>
+      <th scope="col">UserName</th>
+      <th scope="col"><button (click)='showAdd()'><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let el of dataSource">
+      <td scope="row">{{el.id}}</td>
+      <td>{{el.name}}</td>
+      <td>{{el.lastName}}</td>
+      <td>{{el.password}}</td>
+      <td>{{el.email}}</td>
+      <td>{{el.userName}}</td>
+    </tr>
+    <tr *ngIf="showAddUser">
+      <th scope="row"></th>
+      <td><input type="text" class="form-control" aria-label="Name"></td>
+      <td><input type="text" class="form-control" aria-label="LastName"></td>
+      <td><input type="text" class="form-control" aria-label="Password"></td>
+      <td><input type="text" class="form-control" aria-label="Email"></td>
+      <td><input type="text" class="form-control" aria-label="UserName"></td>
+    </tr>
+  </tbody>
+</table>

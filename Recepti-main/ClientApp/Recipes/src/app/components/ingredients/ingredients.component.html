@@ -1,0 +1,26 @@
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">FoodID</th>
+      <th scope="col">RecipeID</th>
+      <th scope="col">Quantity</th>
+      <th scope="col"><button (click)='showAdd()'><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let el of dataSource">
+      <td scope="row">{{el.id}}</td>
+      <td>{{el.foodID}}</td>
+      <td>{{el.recipeID}}</td>
+      <td>{{el.quantity}}</td>
+    </tr>
+    <tr *ngIf="showAddIngredients">
+      <th scope="row"></th>
+      <td><input type="number" class="form-control" aria-label="FoodID"></td>
+      <td><input type="number" class="form-control" aria-label="RecipeID"></td>
+      <td><input type="number" class="form-control" aria-label="Quantito"></td>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+html, body { height: 100%;
+   background-image: url("./assets/back1.jpg");
+  background-size:cover;
+
+}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.table {
+  margin-top: 15px;
+  background-color: white;
+}
+
+.btn-primary {
+  background-color: black !important;
+  border:black !important;
+}

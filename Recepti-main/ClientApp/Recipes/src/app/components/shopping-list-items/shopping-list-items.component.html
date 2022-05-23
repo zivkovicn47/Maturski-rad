@@ -1,0 +1,31 @@
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">FoodID</th>
+      <th scope="col">ShoppingListID</th>
+      <th scope="col">IsPurchased</th>
+      <th scope="col">Quantity</th>
+      <th scope="col"><button (click)='showAdd()'><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let el of dataSource">
+      <td scope="row">{{el.id}}</td>
+      <td>{{el.foodID}}</td>
+      <td>{{el.shoppingListID}}</td>
+      <td>{{el.isPurchased}}</td>
+      <td>{{el.Quantity}}</td>>
+    </tr>
+    <tr *ngIf="showAddShoppinglistitems">
+      <th scope="row"></th>
+      <td><input type="number" class="form-control" aria-label="FoodID"></td>
+      <td><input type="number" class="form-control" aria-label="ShoppinglistID"></td>
+      <!-- proveri obavezno vezano za boolean-->
+      <td><input type="checkbox" checked="checked" name=cheese class="form-control" disabled=disabled aria-label="UsedTime"></td>
+      <td><input type="number" class="form-control" aria-label="Quantity"></td>
+      <th scope="col"><button click=''><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </tbody>
+</table>

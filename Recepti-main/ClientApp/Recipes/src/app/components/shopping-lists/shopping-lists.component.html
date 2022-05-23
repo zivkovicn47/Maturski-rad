@@ -1,0 +1,24 @@
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">CreatedAt</th>
+      <th scope="col"><button (click)='showAdd()'><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let el of dataSource">
+      <td scope="row">{{el.id}}</td>
+      <td>{{el.name}}</td>
+      <td>{{el.createdAt}}</td>
+    </tr>
+    <tr *ngIf="showAddShoppinglist">
+      <th scope="row"></th>
+      <td><input type="text" class="form-control" aria-label="Name"></td>
+      <td><input type="datetime-local" class="form-control" aria-label="CreatedAt"></td>
+      <th scope="col"><button click=''><i class="fa-solid fa-plus"></i></button></th>
+    </tr>
+  </tbody>
+</table>
